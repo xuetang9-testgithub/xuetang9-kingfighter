@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\kingfighter.dir/objects.a
+"D:\Program Files\mingw-w64\x86_64-5.3.0-posix-seh-rt_v4-rev0\mingw64\bin\ar.exe" cr CMakeFiles\kingfighter.dir/objects.a @CMakeFiles\kingfighter.dir\objects1.rsp
+"D:\Program Files\mingw-w64\x86_64-5.3.0-posix-seh-rt_v4-rev0\mingw64\bin\gcc.exe"  -g   -Wl,--whole-archive CMakeFiles\kingfighter.dir/objects.a -Wl,--no-whole-archive  -o kingfighter.exe -Wl,--out-implib,libkingfighter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kingfighter.dir\linklibs.rsp
